@@ -1,257 +1,185 @@
-# 🌌 AEON
+# AEON
 
-### The Living Knowledge Network
+### *"Non Omnis Moriar"*
 
-AEON é uma plataforma de próxima geração que combina conhecimento, pesquisa, inteligência artificial, visualização 3D e comunidades especializadas em um único ecossistema digital.
-
-Nosso objetivo é criar uma experiência onde livros, pesquisas, vídeos, eventos, mapas mentais e inteligência artificial estejam conectados através de uma infraestrutura moderna e escalável.
+*"O conhecimento transcende o tempo."*
 
 ---
 
-## 🚀 Visão
+## O Que é a AEON
 
-O conhecimento não deve permanecer isolado.
+AEON é uma plataforma privada de pesquisa, estudo, preservação e exploração do conhecimento esotérico, filosófico, histórico e simbólico.
 
-A AEON nasce para transformar bibliotecas, pesquisas e comunidades em um organismo vivo de descoberta, aprendizado e colaboração.
+Mais do que uma biblioteca digital.
 
-Imagine uma fusão entre:
+Mais do que uma rede de pesquisadores.
 
-* Notion
-* Obsidian
-* TheBrain
-* Bloomberg
-* Figma
-* Three.js
-* Inteligência Artificial
+Mais do que uma plataforma de estudos.
 
-Tudo integrado em uma única plataforma.
+AEON é um ecossistema vivo de conhecimento conectado.
+
+Um local onde obras, pesquisas, manuscritos, símbolos, tradições, escolas filosóficas e comunidades intelectuais convergem em uma única experiência.
 
 ---
 
-## ✨ Principais Recursos
+## Os Pilares da AEON
 
 ### 📚 Biblioteca Viva
 
-Mais de 100.000 obras organizadas por áreas do conhecimento.
+Um vasto acervo organizado de obras relacionadas a:
 
-Recursos:
+* Cabala
+* Hermetismo
+* Alquimia
+* Angelologia
+* Astrologia
+* Rosacrucianismo
+* Filosofia
+* Gnosticismo
+* Mitologia
+* Religiões Comparadas
+* História das Tradições
+* Manuscritos Históricos
 
-* Busca Inteligente
-* OCR
-* Resumos por IA
-* Recomendações
-* Coleções pessoais
-* Anotações avançadas
-
----
-
-### 🌳 Árvore da Vida Interativa
-
-Uma representação visual tridimensional da jornada intelectual do membro.
-
-Construída com:
-
-* Three.js
-* React Three Fiber
-* WebGL
-
-Funcionalidades:
-
-* Evolução pessoal
-* Metas
-* Áreas de desenvolvimento
-* Visualização dinâmica
+Cada obra é conectada a autores, conceitos, pesquisas e círculos de estudo.
 
 ---
 
-### 📖 AEON Grimoire Engine
+### 🌳 Árvore da Vida
 
-Sistema avançado de livro tridimensional.
+Cada membro possui sua própria representação dinâmica da Árvore da Vida.
 
-Recursos:
+Não como sistema religioso.
 
-* Física realista de páginas
-* Escrita direta nas páginas
-* Biblioteca de sigilos
-* Diagramas interativos
-* Anotações inteligentes
-* Integração com IA
+Mas como uma ferramenta de visualização da jornada intelectual, filosófica e investigativa.
+
+A evolução do conhecimento torna-se visível.
+
+---
+
+### 📖 Grimoire Engine
+
+O Grimório é o coração da experiência AEON.
+
+Um ambiente tridimensional vivo onde o membro pode:
+
+* Escrever
+* Organizar pesquisas
+* Registrar símbolos
+* Construir diagramas
+* Conectar conceitos
+* Preservar descobertas
+
+Cada página é uma extensão do próprio conhecimento.
 
 ---
 
 ### 🧠 Knowledge Universe
 
-Mapa mental tridimensional em escala massiva.
+Todo conhecimento da plataforma existe dentro de um universo interconectado.
 
-Conecta:
+Livros.
 
-* Livros
+Pesquisadores.
+
+Autores.
+
+Eventos.
+
+Conceitos.
+
+Símbolos.
+
+Tudo conectado por relações visíveis e navegáveis.
+
+---
+
+### 🏛️ Círculos
+
+A comunidade é organizada em círculos de estudo.
+
+Cada círculo possui:
+
+* Biblioteca própria
+* Arquivos
+* Conferências
+* Debates
 * Pesquisas
-* Eventos
-* Conceitos
-* Autores
-* Comunidades
-
-Navegação infinita através do conhecimento.
+* Gravações
+* Produções coletivas
 
 ---
 
-### 🤖 AEON Oracle
+### 🤖 AEON ORACLE
 
-Assistente cognitivo integrado.
+O conhecimento da plataforma é ampliado por inteligência artificial.
 
-Powered by:
+O Oracle auxilia membros na:
 
-* NVIDIA AI
-* OpenAI
-* RAG
-* Embeddings
-
-Capaz de:
-
-* Resumir conteúdos
-* Explicar conceitos
-* Relacionar conhecimentos
-* Criar trilhas de estudo
-* Auxiliar pesquisas
-
----
-
-### 🎥 Conferências e Eventos
-
-Integração com:
-
-* Google Meet
-* Zoom
-* YouTube
-* Google Calendar
-
-Recursos:
-
-* Eventos ao vivo
-* Gravações automáticas
-* Transcrições
-* Biblioteca de vídeos
-
----
-
-### 💬 Feed Social Inteligente
-
-Uma rede social focada em conhecimento.
-
-Não baseada em viralização.
-
-Baseada em:
-
-* Descoberta
 * Pesquisa
-* Colaboração
-* Produção intelectual
+* Descoberta
+* Organização
+* Correlação de conceitos
+* Construção de mapas mentais
+
+Sem substituir o estudo.
+
+Sem substituir a reflexão.
+
+Apenas ampliando a capacidade humana de explorar conhecimento.
 
 ---
 
-## 🏗 Arquitetura
+## Filosofia
 
-### Frontend
+AEON não busca substituir tradições.
 
-* React
+Não busca promover crenças.
+
+Não busca definir verdades.
+
+Seu propósito é preservar, organizar, conectar e explorar o conhecimento humano.
+
+O estudo precede a opinião.
+
+A pesquisa precede a conclusão.
+
+A compreensão precede o julgamento.
+
+---
+
+## Arquitetura
+
+Construída sobre tecnologias modernas para suportar uma experiência de próxima geração.
+
 * Next.js
+* React
 * TypeScript
-* TailwindCSS
-* Shadcn UI
-
-### 3D
-
 * Three.js
 * React Three Fiber
-* Drei
-* GSAP
-* WebGL
-
-### Backend
-
 * NestJS
-* Node.js
 * PostgreSQL
-* Redis
-
-### Cloud
-
 * Firebase
-* Google Cloud
-* AWS
-
-### IA
-
-* NVIDIA NIM
+* NVIDIA AI
 * OpenAI
-* LangChain
-* RAG Architecture
+* Elasticsearch
 
 ---
 
-## 🎯 Roadmap
+## Visão
 
-### Fase 1
+Construir o maior athenaeum digital privado dedicado à preservação, pesquisa e exploração do conhecimento esotérico, filosófico e histórico.
 
-* Plataforma Base
-* Biblioteca
-* Sistema de Membros
+Um lugar onde ideias atravessam séculos.
 
-### Fase 2
+Onde manuscritos tornam-se vivos.
 
-* Feed Social
-* Eventos
-* Conferências
+Onde bibliotecas tornam-se universos.
 
-### Fase 3
-
-* Árvore da Vida 3D
-* Knowledge Universe
-
-### Fase 4
-
-* AEON Grimoire Engine
-
-### Fase 5
-
-* AEON Oracle AI
-
-### Fase 6
-
-* Plataforma Global
+Onde o conhecimento permanece.
 
 ---
 
-## 🤝 Como Contribuir
+### "Aqueles que buscam apenas respostas encontram limites. Aqueles que buscam compreensão encontram caminhos."
 
-Estamos procurando:
-
-* Frontend Developers
-* Backend Developers
-* Full Stack Developers
-* Three.js Developers
-* AI Engineers
-* DevOps Engineers
-* Product Designers
-* UI/UX Designers
-
-Contribuições são bem-vindas.
-
----
-
-## 🌍 Nossa Missão
-
-Construir uma plataforma onde conhecimento, tecnologia e inteligência artificial trabalhem juntos para ampliar a capacidade humana de aprender, pesquisar e descobrir.
-
----
-
-## ⚡ Status
-
-Em desenvolvimento ativo.
-
----
-
-### "Knowledge is not meant to be stored. It is meant to be connected."
-
-**AEON — The Living Knowledge Network**
+**AEON**
